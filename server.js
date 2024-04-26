@@ -16,7 +16,7 @@ const connectDB = async () => {
   }
 };
 
-const port = process.env.PORT || 8000;
+const port = 5001;
 
 
 app.use("/api/cars/", require("./Routes/carsRoutes"));

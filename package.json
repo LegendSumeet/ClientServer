@@ -6,7 +6,6 @@
     "dev": "nodemon server.js",
     "build": "npm install"
   },
-
   "keywords": [],
   "author": "",
   "license": "ISC",
